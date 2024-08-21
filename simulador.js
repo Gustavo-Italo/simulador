@@ -24,3 +24,4 @@ const simulador = () => {
 };
 
 simulador();
+simulador();
